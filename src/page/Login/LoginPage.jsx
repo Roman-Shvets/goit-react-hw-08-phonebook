@@ -8,7 +8,7 @@ import {
   ButtonAuth,
 } from './Login.styled';
 
-export const LoginPage = () => {
+const LoginPage = () => {
   const dispatch = useDispatch();
 
   const handleSubmit = e => {
@@ -39,3 +39,5 @@ export const LoginPage = () => {
     </ContainerFormAuth>
   );
 };
+
+export default LoginPage;

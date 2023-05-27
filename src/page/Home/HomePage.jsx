@@ -1,4 +1,4 @@
-export const HomePage = () => {
+const HomePage = () => {
   return (
     <div style={{ fontSize: '20px' }}>
       <p>
@@ -9,3 +9,5 @@ export const HomePage = () => {
     </div>
   );
 };
+
+export default HomePage;

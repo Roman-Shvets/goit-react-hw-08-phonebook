@@ -19,7 +19,7 @@ import {
 import { useState } from 'react';
 import { EditModal } from 'components/EditModal/EditModal';
 
-export function ContactsPage() {
+function ContactsPage() {
   const [isModal, setIsModal] = useState(false);
   const [userName, setUserName] = useState('');
   const [idUser, setIdUser] = useState('');
@@ -77,3 +77,5 @@ export function ContactsPage() {
     </>
   );
 }
+
+export default ContactsPage;
