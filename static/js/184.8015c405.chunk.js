@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[184],{2184:function(e,s,t){t.r(s);var r=t(184);s.default=function(){return(0,r.jsx)("div",{style:{fontSize:"20px"},children:(0,r.jsxs)("p",{children:["Register yourself, please: ",(0,r.jsx)("br",{})," ",(0,r.jsx)("br",{}),"1. An email has to be unique ",(0,r.jsx)("br",{}),"2. A password should be at least 7 symbols long"]})})}}}]);
+//# sourceMappingURL=184.8015c405.chunk.js.map
